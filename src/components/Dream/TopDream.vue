@@ -30,7 +30,7 @@ h5 {
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 0.05em;
-  line-height: 1em;
+  line-height: 1.3em;
 }
 
 </style>

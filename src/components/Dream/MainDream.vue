@@ -3,6 +3,7 @@
     <appHeader></appHeader>
     <appTitle></appTitle>
     <appSubtitle></appSubtitle>
+    <appTableDream></appTableDream>
   </div>
 </template>
 
@@ -11,6 +12,7 @@
 import HeaderDream from './HeaderDream.vue'
 import TitleDream from './TitleDream.vue'
 import SubtitleDream from './SubtitleDream.vue'
+import TableDream from './TableDream.vue'
 
 
 export default {
@@ -20,7 +22,8 @@ export default {
   components: {
     appHeader: HeaderDream,
     appTitle: TitleDream,
-    appSubtitle: SubtitleDream
+    appSubtitle: SubtitleDream,
+    appTableDream: TableDream
   }
 }
 </script>

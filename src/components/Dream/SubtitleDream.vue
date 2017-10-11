@@ -3,98 +3,98 @@
     <div class="subtitlePlacement">
       <div class="content">
         <div class="contentPlacement">
-          <p>It started with one question:</p>
-          <p>What’s the story we want to build for ourselves?</p>
-          <p>Our answer:</p>
+          <p>It started with a search for meaning.</p>
+          <p>A search for purpose, & direction.</p>
+          <p>Then, came the question:</p>
+        </div>
+      </div>
+
+      <div class="content">
+        <div class="contentPlacement">
+          <p>To what should we devote our lives?</p>
+        </div>
+      </div>
+
+      <div class="content">
+        <div class="contentPlacement">
+          <p>From silence, arose the answer:</p>
         </div>
       </div>
 
       <div class="content">
         <div class="contentPlacement">
           <p>Unity.</p>
-          <p>Unity inside. Unity outside.</p>
+          <p>Unity within.</p>
+          <p>Unity in this world.</p>
         </div>
       </div>
 
       <div class="content">
         <div class="contentPlacement">
-          <p>What does it mean?</p>
-          <p>It means that the old <i>"I"</i> goes away.</p>
-          <p>Its time has come.</p>
+          <p>What does this mean?</p>
         </div>
       </div>
 
       <div class="content">
         <div class="contentPlacement">
-          <p>Hasn’t history already shown us that a life guided by the short-sighted <i>"I"</i> only leads to division of mind, body, & soul?</p>
+          <p>It means no more divisions.</p>
+          <p>Making ourselves & this world whole again.</p>
         </div>
       </div>
 
       <div class="content">
         <div class="contentPlacement">
-          <p>Or put in a different way:</p>
+          <p>The time of “Me, Myself & I” is over.</p>
         </div>
       </div>
 
       <div class="content">
         <div class="contentPlacement">
-          <p>Aren’t you tired of the same old shit endlessly looping around you?</p>
+          <p>This mindset, in which the short term pleasures of the self outweighs the possibility of long term harmony, needs to be transmuted.</p>
         </div>
       </div>
 
       <div class="content">
         <div class="contentPlacement">
-          <p>Well, that same old loop is driven by the selfish <i>"I"</i>.</p>
+          <p>Hasn’t history already shown us that a life guided by egoism only leads astray?</p>
         </div>
       </div>
 
       <div class="content">
         <div class="contentPlacement">
-          <p>A loop in which the short term pleasures of the self outweighs the possibility of long term harmony both within & outside yourself.</p>
+          <p>Do we really feel the need to keep running in circles, or can we finally take responsibility for ourselves & choose unity?</p>
         </div>
       </div>
 
       <div class="content">
         <div class="contentPlacement">
-          <p>Do we really feel the need to remain in the same old cycles, or can we finally take responsibility for ourselves, & jump into the greater picture of life?</p>
+          <p>We are confident that we can do it – We believe in a new era; an era in which we consciously learn from the past, forgive it without reluctance, & start afresh.</p>
         </div>
       </div>
 
       <div class="content">
         <div class="contentPlacement">
-          <p>We believe that we can do it – We believe in a new era; an era in which we consciously learn from the past, without hard feelings, & start afresh.</p>
+          <p>The era of “We” & “Be”.</p>
         </div>
       </div>
 
       <div class="content">
         <div class="contentPlacement">
-          <p>The era of <i>"We"</i> & <i>"Be"</i>.</p>
-        </div>
-      </div>
-
-      <div class="content">
-        <div class="contentPlacement">
-          <p>An era in which we realize that the pursuit of our true state of being & service to the universe is a viable path.</p>
-          <p>A path on which we both end up fulfilling ourselves as well as bringing back harmony to this dimension.</p>
+          <p>An era in which we realize that the pursuit of a higher state of being & service to the universe is a viable path.  A path on which we end up fulfilling ourselves as well as bringing back harmony to this dimension.</p>
         </div>
       </div>
 
       <div class="content">
         <div class="contentPlacement">
           <p>That’s what we want.</p>
-          <p>And isn’t worth trying?</p>
+          <p>And isn’t it worth dying for?</p>
         </div>
       </div>
 
       <div class="content">
         <div class="contentPlacement">
-          <p>To die for a noble cause instead of the ephemeral pursuit of material?</p>
+          <p>To die for a noble cause instead of the ephemeral pursuit of material.</p>
           <p>To die for the emancipation of life.</p>
-        </div>
-      </div>
-
-      <div class="content">
-        <div class="contentPlacement">
           <p>To die for unity.</p>
         </div>
       </div>
@@ -113,7 +113,7 @@
 
       <div class="content">
         <div class="contentPlacement">
-          <p>Dreamers that believe in inventing the future instead of predicting it.</p>
+          <p>Dreamers that believe in inventing the future instead of trying to predict it.</p>
         </div>
       </div>
 

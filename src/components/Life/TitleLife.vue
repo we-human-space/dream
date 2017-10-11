@@ -1,5 +1,6 @@
 <template>
   <div class="title">
+    <h3>{{ chapter }}</h3>
     <h1>{{ title }}</h1>
   </div>
 </template>
@@ -9,7 +10,8 @@
 export default {
   data () {
     return {
-      title: "The Dream We're Willing To Die For"
+      title: "Life",
+      chapter: "01"
     }
   },
 }
@@ -19,8 +21,19 @@ export default {
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
 
+.title {
+  margin: 300px 0;
+  color: #4305FF;
+}
+
 h1 {
-  font-size: 15em;
+  font-size: 10em;
+  margin: 0;
+}
+
+h3 {
+  margin: 0;
+  font-size: 3em;
 }
 
 </style>

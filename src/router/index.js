@@ -1,15 +1,21 @@
-import Vue from 'vue'
-import Router from 'vue-router'
-import Main from '@/components/Main'
+import Vue from 'vue';
+import Router from 'vue-router';
+import MainDream from '@/components/Dream/MainDream';
+import MainLife from '@/components/Life/MainLife';
 
-Vue.use(Router)
+Vue.use(Router);
 
 export default new Router({
   routes: [
     {
       path: '/',
-      name: 'Hello',
-      component: Main
+      name: 'Dream',
+      component: MainDream
+    },
+    {
+      path: '/life',
+      name: 'Life',
+      component: MainLife
     }
   ]
-})
+});
