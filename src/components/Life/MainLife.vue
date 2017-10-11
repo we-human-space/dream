@@ -21,6 +21,12 @@ export default {
     appHeaderLife: HeaderLife,
     appTitleLife: TitleLife,
     appSubtitleLife: SubtitleLife
+  },
+  methods: {
+    scrollTop: () => { console.log('scrollingtop'); window.scrollTo(0, 0); }
+  },
+  mounted() {
+    this.scrollTop()
   }
 }
 </script>

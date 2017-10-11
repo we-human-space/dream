@@ -24,6 +24,12 @@ export default {
     appTitle: TitleDream,
     appSubtitle: SubtitleDream,
     appTableDream: TableDream
+  },
+  methods: {
+    scrollTop: () => { console.log('scrollingtop'); window.scrollTo(0, 0); }
+  },
+  mounted() {
+    this.scrollTop()
   }
 }
 </script>
